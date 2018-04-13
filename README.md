@@ -1,6 +1,6 @@
 # react-node-blog
 another blog based on react and node
-之前也用node写个一个简单的博客，但功能写的不尽人意所以重新用react写一个功能比较完整，完善的博客
+之前也用node写个一个简单的博客，但功能写的不尽人意所以重新用react写一个功能比较完整，完善的博客.同时也用来梳理自己的前端知识结构
 
 功能描述：
 ## 前端部分
